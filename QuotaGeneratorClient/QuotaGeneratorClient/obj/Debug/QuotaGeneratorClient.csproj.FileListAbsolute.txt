@@ -18,3 +18,22 @@ D:\CherepNick\Step\Сетевое программирование\examples\PV22
 D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\ConnectWindow.baml
 D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\CommunicateWindow.g.cs
 D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\CommunicateWindow.baml
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\bin\Debug\QuotaGeneratorClient.exe.config
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\bin\Debug\QuotaGeneratorClient.exe
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\bin\Debug\QuotaGeneratorClient.pdb
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\CommunicateWindow.g.cs
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\ConnectWindow.g.cs
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\App.g.cs
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient_MarkupCompile.cache
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient_MarkupCompile.lref
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\CommunicateWindow.baml
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\ConnectWindow.baml
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\MainWindow.baml
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient.g.resources
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient.Properties.Resources.resources
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient.csproj.GenerateResource.cache
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient.exe
+C:\Users\Fishman_1\Documents\GitHub\QuotaGenerator\QuotaGeneratorClient\QuotaGeneratorClient\obj\Debug\QuotaGeneratorClient.pdb

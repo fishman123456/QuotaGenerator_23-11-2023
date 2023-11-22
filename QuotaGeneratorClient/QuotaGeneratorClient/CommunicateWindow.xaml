@@ -14,8 +14,17 @@
             <Button x:Name="sendCommandButton" Content="Send" Margin="10" Width="100" Click="sendCommandButton_Click"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
-            <Label Content="Result:" Margin="10" Width="200"/>
-            <TextBox x:Name="resultTextBox" Width="420" Margin="10"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100*"></ColumnDefinition>
+                    <ColumnDefinition Width="100*"></ColumnDefinition>
+                    <ColumnDefinition Width="100*"></ColumnDefinition>
+                    <ColumnDefinition Width="100*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Content="Result:" Margin="10" Grid.Column="0" />
+                <TextBox x:Name="resultTextBox" Grid.Column ="1" Grid.ColumnSpan="2"  Margin="10" MinWidth="400"/>
+            </Grid>
+            
         </StackPanel>
     </StackPanel>
 </Window>
