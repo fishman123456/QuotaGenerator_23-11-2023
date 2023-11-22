@@ -1,0 +1,8 @@
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\bin\Debug\QuotaGeneratorServer.exe.config
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\bin\Debug\QuotaGeneratorServer.exe
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\bin\Debug\QuotaGeneratorServer.pdb
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\obj\Debug\QuotaGeneratorServer.csproj.AssemblyReference.cache
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\obj\Debug\QuotaGeneratorServer.csproj.SuggestedBindingRedirects.cache
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\obj\Debug\QuotaGeneratorServer.csproj.CoreCompileInputs.cache
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\obj\Debug\QuotaGeneratorServer.exe
+D:\CherepNick\Step\Сетевое программирование\examples\PV225\QuotaGenerator\QuotaGeneratorServer\QuotaGeneratorServer\obj\Debug\QuotaGeneratorServer.pdb
